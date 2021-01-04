@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to kishan Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome to Infosys !!! </h1>
+<h2> Deploying to Kubernetes </h2>
+<h3>  last test </h3>
